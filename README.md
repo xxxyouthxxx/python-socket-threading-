@@ -3,6 +3,9 @@
 数据库用的mysql
 库的话没什么要求
 表如下
+
+
+
       create table username
       (
           username varchar(20) null,
